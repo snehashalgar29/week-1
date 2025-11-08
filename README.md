@@ -42,7 +42,8 @@ A working prototype capable of detecting multiple objects in real-time from vide
 ---
 
 ## 👤 Project Created By
-**Team / Student Name:** [sneha shalgar]  
-**Institution:** [sharnbasva university]  
+**Team / Student Name:** sneha shalgar
+**Institution:** sharnbasva university  
 **Week:** 1  
 **Program:** Edunet Foundation AI Project Initiative
+
